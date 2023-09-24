@@ -81,7 +81,7 @@ if (isset($_GET['submit'])) {
 			header("location:main.php");
 		}
 		else  {
-			header("location:index.php");
+			header("location:main.php");
 		}
 	}
 }
