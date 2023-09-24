@@ -1,4 +1,10 @@
 <?php
-// $con=mysqli_connect('localhost',  'u2140193_mishra', 'zxcasdqwe12345','u2140193_imis');
-$con=mysqli_connect('localhost',  'root', '','imis');
+// Replace with your AWS MariaDB credentials
+$host = '34.201.142.83'; // AWS MariaDB public IPv4 address
+$username = 'admin'; // Your MariaDB username
+$password = 'lab-password'; // Your MariaDB password
+$database = 'imis'; // Your MariaDB database name
+
+// Create a connection to the AWS MariaDB database
+$con = mysqli_connect($host, $username, $password, $database);
 ?>
