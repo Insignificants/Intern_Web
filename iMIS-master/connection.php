@@ -1,3 +1,3 @@
 <?php
-$con=mysqli_connect('34.201.142.83',  'admin', 'lab-password', 'imis');
+$con=mysqli_connect('localhost:3036',  'admin', 'lab-password', 'imis');
 ?>
