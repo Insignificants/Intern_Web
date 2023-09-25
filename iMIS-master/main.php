@@ -98,6 +98,7 @@ echo "
         <li><a href='show_faculty.php'>Faculties</a></li>
         <li><a href='job_opening_show.php'>Job Openings</a></li>
         <li><a href='project_show.php'>Projects</a></li>
+        <li><a href='aboutus.php'>About Us</a></li>
         <li align='right' ><a href='logout.php' style='color:red;'>logout</a></li>
     </ul>
 </nav>
