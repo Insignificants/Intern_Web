@@ -41,13 +41,13 @@ body {
 
     <div id='main'>        
         <h1 style="text-align: center;">This is our Home Page</h1>
-        <img src="mainPage.png" alt="" width="auto" height="auto" style="display: block;margin-left: auto; margin-right: auto;">   
+        <img src="s3://tanjinghan-bucket/mainPage.png" alt="" width="auto" height="auto" style="display: block;margin-left: auto; margin-right: auto;">   
     </br> 
         <h1 style="text-align: center;">This is our Login Page</h1>
-        <img src="login.png" alt="" width="auto" height="auto" style="display: block;margin-left: auto; margin-right: auto;">   
+        <img src="s3://tanjinghan-bucket/login.png" alt="" width="auto" height="auto" style="display: block;margin-left: auto; margin-right: auto;">   
     </br> 
         <h1 style="text-align: center;">Introduce Our Team</h1>
-        <img src="huh.png" alt="" width="auto" height="auto" style="display: block;margin-left: auto; margin-right: auto;">   
+        <img src="s3://tanjinghan-bucket/huh.png" alt="" width="auto" height="auto" style="display: block;margin-left: auto; margin-right: auto;">   
         <h1 style="text-align: center; font-size: 100px;">Huh?</h1>     
     </div>
     
