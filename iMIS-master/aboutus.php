@@ -40,10 +40,8 @@ body {
     </nav>
 
     <div id='main'>        
-        <h1>iMIS Login Page</h1>
-        <img src="login.png" alt="Girl in a jacket" width="500" height="600">
-        <h1>iMIS Main Page</h1>
-        <img src="mainPage.png" alt="Girl in a jacket" width="500" height="600">
+        <h1 style="align-content: center;">Introduce Our Team</h1>
+        <img src="huh.png" alt="" width="auto" height="auto">        
     </div>
 </body>
 </html>
