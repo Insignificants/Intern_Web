@@ -40,8 +40,16 @@ body {
     </nav>
 
     <div id='main'>        
-        <h1 style="align-content: center;">Introduce Our Team</h1>
-        <img src="huh.png" alt="" width="auto" height="auto" style="align-content: center;">        
+        <h1 style="text-align: center;">This is our Home Page</h1>
+        <img src="mainPage.png" alt="" width="auto" height="auto" style="display: block;margin-left: auto; margin-right: auto;">   
+    </br> 
+        <h1 style="text-align: center;">This is our Login Page</h1>
+        <img src="login.png" alt="" width="auto" height="auto" style="display: block;margin-left: auto; margin-right: auto;">   
+    </br> 
+        <h1 style="text-align: center;">Introduce Our Team</h1>
+        <img src="huh.png" alt="" width="auto" height="auto" style="display: block;margin-left: auto; margin-right: auto;">   
+        <h1 style="text-align: center; font-size: 100px;">Huh?</h1>     
     </div>
+    
 </body>
 </html>
