@@ -41,7 +41,7 @@ body {
 
     <div id='main'>        
         <h1 style="align-content: center;">Introduce Our Team</h1>
-        <img src="huh.png" alt="" width="auto" height="auto">        
+        <img src="huh.png" alt="" width="auto" height="auto" style="align-content: center;">        
     </div>
 </body>
 </html>
