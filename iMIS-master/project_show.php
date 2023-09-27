@@ -116,7 +116,7 @@ echo "
                     <tr>
                         <th class='tpl-bar-breadcrumbs' colspan='5'>Project Record
 
-                            <a href='Project_add.php' title='Add a Project to record'><button class='edit-button' style='visibility:visible;width: 43px;height: 32px;line-height: 32px;margin: 5px;'>Add</button></a></th>
+                            <a href='project_add.php' title='Add a Project to record'><button class='edit-button' style='visibility:visible;width: 43px;height: 32px;line-height: 32px;margin: 5px;'>Add</button></a></th>
                         </tr>
                     </thead>
                     <tbody>
